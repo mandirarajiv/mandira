@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashish Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mandira Rajiv</h1>
+<h3 align="center">A passionate Java developer and Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=c52e76d784924e89ff559436213afc261ddf308f50d6a0021c24c73117ea8ea7&ipo=images">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imashishreddy&label=Profile%20views&color=0e75b6&style=flat" alt="imashishreddy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandirarajiv&label=Profile%20views&color=0e75b6&style=flat" alt="imashishreddy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/im_ashishreddy" target="blank"><img src="https://img.shields.io/twitter/follow/im_ashishreddy?logo=twitter&style=for-the-badge" alt="im_ashishreddy" /></a> </p>
 
@@ -11,7 +11,7 @@
   leading innovative projects and collaborating with cross-functional teams to deliver 
   optimized, secure, and scalable solutions. 
 
-- 📫 How to reach me **ashishbhutkuri02@gmail.com**
+- 📫 How to reach me **mandirarajiv2580@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandirarajiv&show_icons=true&locale=en&layout=compact" alt="mandirarajiv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashishreddy&show_icons=true&locale=en" alt="imashishreddy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandirarajiv&show_icons=true&locale=en" alt="mandirarajiv" /></p>
