@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mandira Rajiv</h1>
 <h3 align="center">A passionate Java developer and Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=c52e76d784924e89ff559436213afc261ddf308f50d6a0021c24c73117ea8ea7&ipo=images">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw0XpgMDeGoR5pNE5_yhU_8H&ust=1722166052063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD9x9KOx4cDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandirarajiv&label=Profile%20views&color=0e75b6&style=flat" alt="mandirarajiv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mandirarajiv" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw0XpgMDeGoR5pNE5_yhU_8H&ust=1722166052063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD9x9KOx4cDFQAAAAAdAAAAABAE" /></a> </p>
+<p align="left"> <a href="https://twitter.com/im_mandirarajiv" target="blank"><img src="https://img.shields.io/twitter/follow/im_mandirarajiv?logo=twitter&style=for-the-badge" alt="im_mandirarajiv" /></a> </p>
 
 - A highly motivated computer science professional with a strong background in Java, 
   Python and expertise in software development and Android Development. Passionate about 
