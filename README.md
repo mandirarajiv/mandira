@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandira Rajiv</h1>
 <h3 align="center">A passionate Java developer and Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw0XpgMDeGoR5pNE5_yhU_8H&ust=1722166052063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD9x9KOx4cDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandirarajiv&label=Profile%20views&color=0e75b6&style=flat" alt="mandirarajiv" /> </p>
 
